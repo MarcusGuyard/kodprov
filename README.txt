@@ -7,9 +7,9 @@ Provet pågår 10.30-12.30 måndagen 30e november 2020.
 
     github.com/KYHlings/kodprov
 
- 2. Kopiera alla Pythonfiler som ligger i kyh-kodprov/ till erat kyh quizz repo
+ 2. Kopiera filen "main.py" som ligger i kodprov/ till erat kyh quizz repo,
+    alltså det privata repot som ni gjort inlämningar i.
     Lägg filerna i en mapp kallad "kodprov/".
-    (alltså det privata repot som ni gjort inlämningar i)
 
  3. Inlämning sker genom att pusha erat kyh quizz repo så jag kan rätta.
 
@@ -18,13 +18,25 @@ Provet pågår 10.30-12.30 måndagen 30e november 2020.
 
  5. Det är sista committen/pushen vid provets slut som gäller; det är
     den committen jag kommer rätta.
+ 
+ 6. Det är inte tillåtet att kommunicera med klasskamrater på något sätt
+    under provtiden - varken via textmeddelanden (SMS, Discord, Zoom etc.),
+    ljud eller bild (eller morse eller vadsomhelst - använd fantasin! haha).
+    Eftersom jag har svårt att kontrollera att denna regel efterlevs, bygger
+    detta helt på förtroende mellan mig och dig. Tänk på att ni gör det
+    här provet för er själva - att fuska är som att skjuta sig i foten -
+    det kommer inte hjälpa er framåt, utan stjälpa. Om ni har något problem
+    med något behöver ni få reda på det hellre tidigare än senare!
 
 
 Betyg
 -----
-Icke godkänt: mindre än 60% av totalpoängen
-Godkänt: samlat ihop 60%-80% av totalpoängen
-Väl godkänt: samlat ihop 80%-100% av totalpoängen
+
+Poäng i procent  | Betyg
+-------------------------------------
+60-79.999%       : Godkänt prov
+80-100%          : Väl godkänt prov
+0-59.9%          : Icke godkänt prov
 
 
 Poäng
