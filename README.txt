@@ -9,7 +9,7 @@ Provet pågår 10.30-12.30 måndagen 30e november 2020.
 
  2. Kopiera filen "main.py" som ligger i kodprov/ till erat kyh quizz repo,
     alltså det privata repot som ni gjort inlämningar i.
-    Lägg filerna i en mapp kallad "kodprov/".
+    Lägg "main.py" i en mapp kallad "kodprov/" i erat repo.
 
  3. Inlämning sker genom att pusha erat kyh quizz repo så jag kan rätta.
 
