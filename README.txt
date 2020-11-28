@@ -5,7 +5,7 @@ Provet pågår 10.30-12.30 måndagen 30e november 2020.
 
  1. Klona detta repo:
 
-    github.com/objarni/kyh-kodprov
+    github.com/KYHlings/kodprov
 
  2. Kopiera alla Pythonfiler som ligger i kyh-kodprov/ till erat kyh quizz repo
     Lägg filerna i en mapp kallad "kodprov/".
