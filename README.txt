@@ -34,9 +34,9 @@ Betyg
 
 Poäng i procent  | Betyg
 -------------------------------------
-60-79.999%       : Godkänt prov
-80-100%          : Väl godkänt prov
-0-59.9%          : Icke godkänt prov
+60-79.9%         : Godkänt prov
+80-100.%         : Väl godkänt prov
+00-59.9%         : Icke godkänt prov
 
 
 Poäng (total 110p)
