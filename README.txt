@@ -43,7 +43,7 @@ Poäng (total 110p)
 ------------------
 
 10p Alla funktioner, inklusive funktioner i given kod,
-    har mindre än 15 rader kod (kommentarer och tomrader
+    har mindre än 20 rader kod (kommentarer och tomrader
     räknas ej; def-rad räknas)
 
  5p Alla funktioner har en docstring
