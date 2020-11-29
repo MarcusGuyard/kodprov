@@ -39,8 +39,8 @@ Poäng i procent  | Betyg
 0-59.9%          : Icke godkänt prov
 
 
-Poäng
------
+Poäng (total 120p)
+------------------
 
 10p Alla funktioner, inklusive funktioner i given kod,
     har mindre än 15 rader kod (kommentarer och tomrader
@@ -58,7 +58,7 @@ Poäng
     logiska, grupperande namn (main och main2.py duger
     inte)
 
-5-20p per TODO item som är löst i koden
+5-20p per TODO item som är löst i koden (totalt 85p)
 
 En TODO item anses löst om:
     1. Den delen som TODOn implementerar ger förväntat
