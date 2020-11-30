@@ -63,7 +63,7 @@ Poäng (totalt 100p)
     logiska, grupperande namn (main och main2.py duger
     inte)
 
-5-20p per TODO item som är löst i koden (totalt 65p)
+5-15p per TODO item som är löst i koden (totalt 65p)
 
 En TODO item anses löst om:
     1. Den delen som TODOn implementerar ger förväntat
