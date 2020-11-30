@@ -35,7 +35,7 @@ Betyg
 Betyg i detta kursmoment bestäms av antalet avklarade poäng:
 
   Poäng   | Betyg
-  -------------------------------------
+  ---------------------------
   60-79   : Godkänt prov
   80-100  : Väl godkänt prov
   00-59   : Icke godkänt prov
