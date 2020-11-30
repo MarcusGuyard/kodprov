@@ -32,15 +32,17 @@ Provet pågår 10.30-12.30 måndagen 30e november 2020.
 Betyg
 -----
 
-Poäng i procent  | Betyg
--------------------------------------
-60-79.9%         : Godkänt prov
-80-100.%         : Väl godkänt prov
-00-59.9%         : Icke godkänt prov
+Betyg i detta kursmoment bestäms av antalet avklarade poäng:
+
+  Poäng   | Betyg
+  -------------------------------------
+  60-79   : Godkänt prov
+  80-100  : Väl godkänt prov
+  00-59   : Icke godkänt prov
 
 
-Poäng (total 110p)
-------------------
+Poäng (totalt 100p)
+-------------------
 
 10p Alla funktioner, inklusive funktioner i given kod,
     har mindre än 20 rader kod (kommentarer och tomrader
@@ -58,7 +60,7 @@ Poäng (total 110p)
     logiska, grupperande namn (main och main2.py duger
     inte)
 
-5-20p per TODO item som är löst i koden (totalt 75p)
+5-20p per TODO item som är löst i koden (totalt 65p)
 
 En TODO item anses löst om:
     1. Den delen som TODOn implementerar ger förväntat
