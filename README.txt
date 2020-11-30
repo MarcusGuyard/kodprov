@@ -19,14 +19,17 @@ Provet pågår 10.30-12.30 måndagen 30e november 2020.
  5. Det är sista committen/pushen vid provets slut som gäller; det är
     den committen jag kommer rätta.
  
- 6. Det är inte tillåtet att kommunicera med klasskamrater på något sätt
-    under provtiden - varken via textmeddelanden (SMS, Discord, Zoom etc.),
-    ljud eller bild (eller morse eller vadsomhelst - använd fantasin! haha).
-    Eftersom jag har svårt att kontrollera att denna regel efterlevs, bygger
-    detta helt på förtroende mellan mig och dig. Tänk på att ni gör det
-    här provet för er själva - att fuska är som att skjuta sig i foten -
-    det kommer inte hjälpa er framåt, utan stjälpa. Om ni har något problem
-    med något behöver ni få reda på det hellre tidigare än senare!
+ 6. Det är inte tillåtet att kommunicera med klasskamrater (eller andra)
+    på något sätt under provtiden - varken via textmeddelanden (SMS,
+    Discord, Zoom etc.), ljud eller bild (eller morse eller vadsomhelst -
+    använd fantasin! haha).
+    
+    Eftersom inte kan kontrollera att denna regel efterlevs, bygger den
+    helt och hållet på förtroende mellan mig och dig. Tänk på att ni gör
+    det här provet för er själva - att fuska är som att skjuta sig i foten -
+    det kommer inte hjälpa er framåt, utan stjälpa. Om det finns något ni
+    missat i denna grundkurs behöver ni få reda på det hellre tidigare än
+    senare.
 
 
 Betyg
