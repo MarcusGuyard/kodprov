@@ -50,16 +50,14 @@ Q) Quit
             return
 
 
-def ListTrainers(batmansCellarStuff):
-    # TODO (5 p):
-    # Sort the trainers before printing them.
+def ListTrainers(courses):
     print("The trainers at ProAgile are:")
     trainers = []
-    for r2d2 in batmansCellarStuff:
-        trainer = r2d2['trainerName']
+    for course in courses:
+        trainer = course['trainerName']
         if trainer not in trainers:
             trainers.append(trainer)
-    for trainer in trainers:
+    for trainer in sorted(trainers):
         print(f'  {trainer}')
 
 
