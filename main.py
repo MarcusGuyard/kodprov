@@ -20,7 +20,7 @@ def run():
         if user_answer == '4':
             print_trainer_with_most_courses(course_data)
         if user_answer.upper() == 'Q':
-            print("Good-bye and thank you for the fish!eoghEWGOIWHEo")
+            print("Good-bye and thank you for the fish!")
             return
 
 
